@@ -185,7 +185,7 @@ In this phase, I created the Azure environment required for the lab by provision
 
 * **Step 10: Defining administrative credentials and security settings for `osTicketVM`.**
 <br>
-* <img width="984" height="1600" alt="Step 10  Credentilas such as password   name for osTicketVM" src="https://github.com/user-attachments/assets/d029d83b-9985-4495-92a2-477a2d488bfb" />
+<img width="984" height="1600" alt="Step 10  Credentilas such as password   name for osTicketVM" src="https://github.com/user-attachments/assets/d029d83b-9985-4495-92a2-477a2d488bfb" />
 >
 <br>
 
