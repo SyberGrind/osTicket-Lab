@@ -516,7 +516,7 @@ In this phase, I deployed the osTicket application by extracting the installatio
 >
 <br>
 
-* **Step 81: Reviewing site bindings in IIS.**
+* **Step 81: Navigating to the Default Web Site within IIS Manager.**
 <br>
 <img width="1366" height="768" alt="Step 81  Navigating to Sites in IIS" src="https://github.com/user-attachments/assets/f7e05e15-961b-425f-b1b9-51db44735e4e" />
 >
@@ -594,49 +594,49 @@ In this phase, I deployed the osTicket application by extracting the installatio
 >
 <br>
 
-* **Step 94: Configuring primary osTicket installation settings (Page 1).**
+* **Step 94: Viewing the System Settings section of the osTicket installation wizard (Page 1).**
 <br>
 <img width="1366" height="768" alt="Step 94  1st Blank Credentials page of osTicket to complete intallation" src="https://github.com/user-attachments/assets/8cfdc618-744d-40b5-8452-12f32b0569ea" />
 >
 <br>
 
-* **Step 95: Configuring database and admin account credentials (Page 2).**
+* **Step 95: Viewing the Administrator and Database configuration section (Page 2).**
 <br>
 <img width="1366" height="768" alt="Step 95  2nd Blank Credentials page of osTicket to complete intallation" src="https://github.com/user-attachments/assets/4f8bd677-8a73-4f42-8ca4-19e8ccc765b0" />
 >
 <br>
 
-* **Step 96: Verifying final installation configurations (Page 3).**
+* **Step 96: Reviewing the complete osTicket installation form before configuration (Page 3).**
 <br>
 <img width="1366" height="768" alt="Step 96  3rd Blank Credentials page of osTicket to complete intallation" src="https://github.com/user-attachments/assets/2f05896e-b6c8-4eb4-8054-c9a7644d3a4a" />
 >
 <br>
 
-* **Step 97: Reviewing compiled configuration credentials.**
+* **Step 97: Reviewing the installation credentials prepared for the osTicket deployment.**
 <br>
 <img width="1047" height="1600" alt="Step 97  Credentials sheet for osTicket installation" src="https://github.com/user-attachments/assets/24d0e66a-adbe-4853-b5a5-16e583112035" />
 >
 <br>
 
-* **Step 98: Inputting system and email settings.**
+* **Step 98: Configuring the System Settings for the osTicket installation.**
 <br>
 <img width="1366" height="768" alt="Step 98  Defining credentials for 1st page to intall osTicket" src="https://github.com/user-attachments/assets/87190d88-6566-4e1e-a76b-038bc31dbbfe" />
 >
 <br>
 
-* **Step 99: Inputting database host, name, and user credentials.**
+* **Step 99: Configuring the Administrator account and MySQL database settings.**
 <br>
 <img width="1366" height="768" alt="Step 99  Defining credentials for 2nd page to intall osTicket" src="https://github.com/user-attachments/assets/2ba40533-5624-4edd-9c5b-4e046c769a63" />
 >
 <br>
 
-* **Step 100: Confirming admin account details.**
+* **Step 100: Completing the final installation configuration before deploying osTicket.**
 <br>
 <img width="1366" height="768" alt="Step 100  Defining credentials for 3rd page to intall osTicket" src="https://github.com/user-attachments/assets/0bc7bff9-4bf3-42fe-bdbb-f7f15b8d749f" />
 >
 <br>
 
-* **Step 101: osTicket installation completed successfully.**
+* **Step 101: osTicket install.**
 <br>
 <img width="1366" height="768" alt="Step 101  Successful complete installation of osTicket" src="https://github.com/user-attachments/assets/b0fb2c7d-1617-4705-a7a8-ade41677a482" />
 >
@@ -727,19 +727,19 @@ In this phase, I configured the osTicket environment by creating roles, departme
 >
 <br>
 
-* **Step 115: Accessing Team management.**
+* **Step 115: Accessing Team management - Creating a New Team in osTicket.**
 <br>
 <img width="1366" height="768" alt="Step 115  Creating a team on osTicket" src="https://github.com/user-attachments/assets/0de4dad8-ae85-41bc-a2c6-d348b29a49f8" />
 >
 <br>
 
-* **Step 116: Defining new team credentials.**
+* **Step 116: Configuring the Online Sales Team.**
 <br>
 <img width="1366" height="768" alt="Step 116  Defining credentials of team being created" src="https://github.com/user-attachments/assets/6bc54c35-2737-4e9a-9dd6-3cf5912b1992" />
 >
 <br>
 
-* **Step 117: "SysAdmins" team created successfully.**
+* **Step 117: Online Sales Team Successfully Created.**
 <br>
 <img width="1366" height="768" alt="Step 117  SysAdmins Team Successfully created" src="https://github.com/user-attachments/assets/472d30d8-0429-4943-b792-9a4954e8835e" />
 >
@@ -847,7 +847,7 @@ In this phase, I configured the osTicket environment by creating roles, departme
 >
 <br>
 
-* **Step 135: Verifying the user directory list.**
+* **Step 135: Verifying the user directory list - Viewing the List of Created Users.**
 <br>
 <img width="1366" height="768" alt="Step 135  Viewing list of users I created" src="https://github.com/user-attachments/assets/e0740b7a-b4fc-4bae-b809-9b68941d206d" />
 >
@@ -871,7 +871,7 @@ In this phase, I configured the osTicket environment by creating roles, departme
 >
 <br>
 
-* **Step 139: Submitting a support ticket as "Andile Mngxitama".**
+* **Step 139: Submitting a ticket as "Andile Mngxitama".**
 <br>
 <img width="1366" height="768" alt="Step 139  Lodging a ticket with user Andile Mngxitama" src="https://github.com/user-attachments/assets/c96f811f-8b8d-4618-88e6-41da1374281d" />
 >
@@ -883,7 +883,7 @@ In this phase, I configured the osTicket environment by creating roles, departme
 >
 <br>
 
-* **Step 141: Siyolo Kamisa receiving the new ticket notification.**
+* **Step 141: Siyolo Kamisa Opens the Ticket to Review the User's Issue "Andile Mngxitama".**
 <br>
 <img width="1366" height="768" alt="Step 141  Siyolo Kamisa recieves notification user Andile Mngxitama has lodged a ticket" src="https://github.com/user-attachments/assets/4ead3474-ed6d-404b-b3d4-9644e4f52af2" />
 >
@@ -901,19 +901,19 @@ In this phase, I configured the osTicket environment by creating roles, departme
 >
 <br>
 
-* **Step 144: Ticket assignment successfully updated.**
+* **Step 144: Ticket Successfully Assigned to Tshidi Bosiu.**
 <br>
 * <img width="1366" height="768" alt="Step 144  Ticket successfully assigned to Tshidi Bosiu" src="https://github.com/user-attachments/assets/785286cf-bd22-4f8c-9a2b-36d13d23ee40" />
 >
 <br>
 
-* **Step 145: Tshidi Bosiu authenticating to resolve the assigned ticket.**
+* **Step 145: Tshidi Bosiu logs in to resolve the assigned ticket.**
 <br>
 <img width="1366" height="768" alt="Step 145  Tshidi Bosiu logs in to resolve ticket" src="https://github.com/user-attachments/assets/22f2e9fc-3087-4b4c-ac64-110fc8d01094" />
 >
 <br>
 
-* **Step 146: Tshidi Bosiu documenting the ticket resolution.**
+* **Step 146: Tshidi Bosiu Reviews the Assigned Ticket.**
 <br>
 <img width="1366" height="768" alt="Step 146  Tshidi Bosiu notes down ticket" src="https://github.com/user-attachments/assets/cc8a44f8-45df-4df0-be80-4ac617674969" />
 >
